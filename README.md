@@ -18,7 +18,9 @@ A great example of the visualization of sounds.
 ![An image of sonic water](assets/Klangbild10.jpg)
 ![An image of sonic water](assets/sonic%20water.png)
 
-This project has inspired me with the idea that the patterns within the wheels is rotating and can be live altered based on sound or user input.
+This project has inspired me with the idea that the patterns within the wheels can be rotating and live altered based on sound or user input.
+
+The strength of this technique lies in preserving the original placement of all the wheels. This allows people to still recognize the original art pieces while experiencing vivid visual expressions.
 
 ## **Part 2: Coding Technique Exploration**
 ### [1. Code of Mouse Ripple](https://happycoding.io/tutorials/p5js/input/mouse-ripple)
